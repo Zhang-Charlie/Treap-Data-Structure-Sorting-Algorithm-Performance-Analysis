@@ -53,6 +53,7 @@ We benchmarked Treap performance and compared it against:
 
 ### 📊 Research Poster  
 
+---
 
 <p align="center">
   <img src="Sorting-Algorithm.png" alt="Treap Performance Poster" width="600" />
