@@ -53,8 +53,10 @@ We benchmarked Treap performance and compared it against:
 
 ### 📊 Research Poster  
 
-![Treap Performance Poster](Sorting-Algorithm.png)
 
+<p align="center">
+  <img src="Sorting-Algorithm.png" alt="Treap Performance Poster" width="600" />
+</p>
 
 This poster illustrates:
 - How a Treap works (BST + heap priority)  
