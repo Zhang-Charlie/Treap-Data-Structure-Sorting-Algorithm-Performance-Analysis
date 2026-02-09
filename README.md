@@ -90,9 +90,9 @@ Each package contains a fully-implemented data structure and, in many cases, cor
 
 Clone the repository:
 
-git clone https://github.com/Zhang-Charlie/Treap-Data-Structure-Sorting-Algorithm-Performance-Analysis.git)
+git clone https://github.com/Zhang-Charlie/Treap-Data-Structure-Sorting-Algorithm-Performance-Analysis.git
 
-cd Java-Data-Structures-Library
+cd Treap-Data-Structure-Sorting-Algorithm-Performance-Analysis
 
 Compile everything:
 
