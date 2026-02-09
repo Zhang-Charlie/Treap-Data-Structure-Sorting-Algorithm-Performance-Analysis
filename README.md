@@ -1,4 +1,4 @@
-# Java Data Structures Library
+# Treap Data Structure & Sorting Algorithm Performance Analysis	
 
 A comprehensive Java library containing core data structures implemented from scratch, including lists, stacks, queues, trees, hash tables, priority queues, and a fully-functional **Treap** with performance analysis.
 
